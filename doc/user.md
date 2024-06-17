@@ -1,4 +1,4 @@
-# Spesifikasi API User
+# Specification API User
 
 ## Register User
 
